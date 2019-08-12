@@ -1,0 +1,13 @@
+{
+"companyName": "STD Software",
+"productName": "VHN Vins",
+"dataUrl": "VHN_2.data.unityweb",
+"wasmCodeUrl": "VHN_2.wasm.code.unityweb",
+"wasmFrameworkUrl": "VHN_2.wasm.framework.unityweb",
+"TOTAL_MEMORY": 134217728,
+"graphicsAPI": ["WebGL 2.0", "WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Light",
+"backgroundColor": "#FFFFFF",
+"cacheControl": {"default": "must-revalidate"}
+}
